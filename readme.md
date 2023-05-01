@@ -44,5 +44,11 @@ This extension will soon be avialable on chrome web store.
 4. The conversation will be displayed in the two tabs that open automatically.
 5. To resume a previous conversation, select the "Continue Chat" option and set the number of rounds or select infinite conversation.
 
+
+<p align="center">
+  <img src="https://github.com/ShahrozAtiq/Camelia/blob/master/demo.gif?raw=true" />
+</p>
+
+
 ## License
 This extension is proprietary and cannot be used without permission from the developer.
